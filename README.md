@@ -17,6 +17,8 @@
     <aside></aside>
 ```
 
+> O elemento aparte representa uma seção de uma página que consiste de conteúdo que está tangencialmente relacionado ao conteúdo ao redor do elemento aparte, e que poderia ser considerado separado desse conteúdo. Tais seções são freqüentemente representadas como barras laterais em tipografia impressa.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
