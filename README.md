@@ -5,6 +5,8 @@
     <section></section>
 ```
 
+> O elemento de seção representa uma seção genérica de um documento ou pedido. Uma seção, neste contexto, é um agrupamento temático de conteúdo. Cada seção deve ser identificada, normalmente incluindo um título (elemento h1- h6) como um filho do elemento de seção.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
