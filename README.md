@@ -1,7 +1,9 @@
 <!-- TITLE -->
 # Tag — Section, Article, Aside e Time
 
-
+```html
+    <section></section>
+```
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
