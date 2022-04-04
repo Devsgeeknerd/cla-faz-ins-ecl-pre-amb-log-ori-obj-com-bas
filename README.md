@@ -26,7 +26,7 @@
 > O elemento tempo representa seu conteúdo, juntamente com uma forma legível por máquina desse conteúdo no atributo data/hora. O tipo de conteúdo é limitado a vários tipos de datas, horários, compensações de fuso horário e durações, conforme descrito abaixo.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->
