@@ -13,6 +13,10 @@
 
 > O elemento do artigo representa uma composição completa, ou independente, em um documento, página, aplicação ou site e que, em princípio, é distribuível ou reutilizável de forma independente, por exemplo, em sindicação. Pode ser um post em fórum, um artigo em revista ou jornal, uma entrada em blog, um comentário submetido pelo usuário, um widget ou gadget interativo, ou qualquer outro item independente de conteúdo. Cada artigo deve ser identificado, normalmente incluindo um título (elemento h1-h6) como filho do elemento do artigo.
 
+```html
+    <aside></aside>
+```
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 
