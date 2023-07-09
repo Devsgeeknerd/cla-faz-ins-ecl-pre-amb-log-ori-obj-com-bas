@@ -1,90 +1,57 @@
-<!-- TITLE -->
-# Tag — Section, Article, Aside e Time
+<!-- Título -->
+# Fazendo a Instalação de Eclipse
 
 ***Conteúdo da Aula:***
 
-```html
-    <section></section>
-```
+O ***Eclipse*** é um ambiente integrado de desenvolvimento gratuito que permite personalizar totalmente o ambiente de acordo com o projeto que está sendo desenvolvido, seja para plataforma ***Web*** ou ***Desktop***.
 
-> O elemento de seção representa uma seção genérica de um documento ou pedido. Uma seção, neste contexto, é um agrupamento temático de conteúdo. Cada seção deve ser identificada, normalmente incluindo um título (elemento h1- h6) como um filho do elemento de seção.
+A principal empresa envolvida no desenvolvimento desta **IDE** é a **IBM**, mas existem várias empresas comprometidas com o *Eclipse* (como a *JBoss*, etc.).
 
-```html
-    <article></article>
-```
+O *Eclipse* ainda pode ter suas funcionalidades estendidas, já que permite a instalação de *plugins* que trabalham integrados a ele, adicionando as mais variadas funcionalidades.
 
-> O elemento do artigo representa uma composição completa, ou independente, em um documento, página, aplicação ou site e que, em princípio, é distribuível ou reutilizável de forma independente, por exemplo, em sindicação. Pode ser um post em fórum, um artigo em revista ou jornal, uma entrada em blog, um comentário submetido pelo usuário, um widget ou gadget interativo, ou qualquer outro item independente de conteúdo. Cada artigo deve ser identificado, normalmente incluindo um título (elemento h1-h6) como filho do elemento do artigo.
+Em sua versão básica, o *Eclipse* já traz alguns *plugins* (que podem ser chamados de *plugins* básicos).
 
-```html
-    <aside></aside>
-```
+Para obter uma cópia do *Eclipse*, acesse a página de *download* do *Eclipse* no link abaixo:
 
-> O elemento aparte representa uma seção de uma página que consiste de conteúdo que está tangencialmente relacionado ao conteúdo ao redor do elemento aparte, e que poderia ser considerado separado desse conteúdo. Tais seções são freqüentemente representadas como barras laterais em tipografia impressa.
+* [Eclipse.](https://eclipse.org/downloads/eclipse-packages/ "Link Para Download do Eclipse")
 
-```html
-    <time></time>
-```
+E baixe o *Eclipse* **IDE** for **Java Developers**:
 
-> O elemento tempo representa seu conteúdo, juntamente com uma forma legível por máquina desse conteúdo no atributo data/hora. O tipo de conteúdo é limitado a vários tipos de datas, horários, compensações de fuso horário e durações, conforme descrito abaixo.
+![Escolha do Eclipse Para Download.](https://d2v0x26thbzlwf.cloudfront.net/prod/13/img/rId9muxz6lnd.by0.png "Escolha do Eclipse Para Download")
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+Você pode iniciar o *download* escolhendo um **“espelho”**, que é um servidor de onde o *Eclipse* será baixado.
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
+Geralmente, o próprio *site* escolhe o espelho mais adequado.
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+Sendo assim, clique no botão **“Download”**.
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+![Imagem do Botão de Download.](https://d2v0x26thbzlwf.cloudfront.net/prod/13/img/rId10wggdm304.h1f.png "Imagem do Botão de Download")
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+Não é necessário instalar o *Eclipse*:
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+* Basta desempacotar, no local da sua preferência, a estrutura de diretórios e arquivos.
 
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
+![Imagem da Extração do Eclipse.](https://d2v0x26thbzlwf.cloudfront.net/prod/13/img/rId117l9pfj5v.jwz.png "Imagem da Extração do Eclipse")
 
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
+Por uma questão de organização, o diretório da instalação do Eclipse deve ficar em uma pasta **Java** na raiz do computador:
 
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+![Caminho Onde Devemos Colocar o Eclipse.](https://d2v0x26thbzlwf.cloudfront.net/prod/13/img/rId12iyj1wghw.7e5.png "Caminho Onde Devemos Colocar o Eclipse")
 
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
+É recomendável criar um atalho na área de trabalho.
 
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Ftag-sec-art-asi-tim&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/tag-sec-art-asi-tim?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/tag-sec-art-asi-tim?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/tag-sec-art-asi-tim?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/tag-sec-art-asi-tim?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/tag-sec-art-asi-tim?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-faz-ins-ecl-pre-amb-log-ori-obj-com-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
